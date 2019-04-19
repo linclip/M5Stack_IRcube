@@ -10,12 +10,15 @@ M5Stackで赤外線による家電リモコンを実現します。
 
 M5Stackシリーズ + 赤外線ユニット
 
-* M5Stack Officilal IR UNIT （[DEMO VIDEO](https://www.youtube.com/watch?v=tgQ5H5SedkU)）
+* M5Stack Officilal IR UNIT （[DEMO VIDEO](https://www.youtube.com/watch?v=DrlsMsi8R2U)）
 
 * 雑赤外線モジュール （[DEMO VIDEO](https://www.youtube.com/watch?v=6TpuKI1cwZU)）
 
 * 超雑赤外線モジュール （[DEMO VIDEO](https://www.youtube.com/watch?v=v7prP7vNd5k)）
 
+M5Stack Grayにてテスト。
+
+ピン番号を変えれば、その他のデバイスにも対応すると思われます。ご報告お待ちしております。
 
 ## 使い方
 
