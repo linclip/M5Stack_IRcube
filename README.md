@@ -6,6 +6,17 @@ M5Stackで赤外線による家電リモコンを実現します。
 
 本体画面のメニューから操作できるほか、Wi-Fi接続での操作にも対応します。
 
+## 対応デバイス
+
+M5Stackシリーズ + 赤外線ユニット
+
+* M5Stack Officilal IR UNIT （[DEMO VIDEO](https://www.youtube.com/watch?v=tgQ5H5SedkU)）
+
+* 雑赤外線モジュール （[DEMO VIDEO](https://www.youtube.com/watch?v=6TpuKI1cwZU)）
+
+* 超雑赤外線モジュール （[DEMO VIDEO](https://www.youtube.com/watch?v=v7prP7vNd5k)）
+
+
 ## 使い方
 
 初めて電源を入れた時は接続するWiFiネットワークがされていませんが、本体操作でTVリモコンの操作が可能です。
