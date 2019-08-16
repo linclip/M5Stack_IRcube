@@ -8,7 +8,7 @@
 #include <DNSServer.h>
 #include <WiFiClient.h>
 #include <WebServer.h>
-#include <WiFiManager.h> // https://github.com/Brunez3BD/WIFIMANAGER-ESP32
+#include <WiFiManager.h> // https://github.com/tzapu/WiFiManager/tree/development
 #include <ESPmDNS.h>
 #include <WiFiClient.h>
 #include <aJSON.h>       // https://github.com/interactive-matter/aJson  https://gitlab.com/xarduino/lightsw/blob/master/patch/ajson-void-flush.patch

@@ -55,7 +55,7 @@ http://m5.linclip.com/ir/
 
 A、B、Cボタンでツリー的なメニューを操作します。
 
-メニューは[LovyanLauncher](https://github.com/lovyan03/M5Stack_LovyanLauncher)、[M5Stack_TreeView](https://github.com/lovyan03/M5Stack_TreeView) と同様。
+操作方法は[LovyanLauncher](https://github.com/lovyan03/M5Stack_LovyanLauncher)、[M5Stack_TreeView](https://github.com/lovyan03/M5Stack_TreeView) と同様。
 
 
 ## 参考にしたもの
@@ -64,14 +64,16 @@ A、B、Cボタンでツリー的なメニューを操作します。
 
 * [IRKit](http://getirkit.com/)
 
-特に、データ送信に関してはminlRumのコードをそのまま使用させていただきました。
+特に、データ送信に関してはminlRumのコードを使用させていただきました。
 
 ## 使用ライブラリ
 
-* https://github.com/Brunez3BD/WIFIMANAGER-ESP32
+* https://github.com/tzapu/WiFiManager/tree/development
 
-* https://github.com/interactive-matter/aJson （要パッチ https://gitlab.com/xarduino/lightsw/blob/master/patch/ajson-void-flush.patch）
+* https://github.com/interactive-matter/aJson （要パッチ https://gitlab.com/xarduino/lightsw/blob/master/patch/ajson-void-flush.patch ）
 
 * https://github.com/SensorsIot/Arduino-IRremote
 
+* https://github.com/lovyan03/M5Stack_TreeView
 
+* https://github.com/tobozo/M5Stack-SD-Updater
